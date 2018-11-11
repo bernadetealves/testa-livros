@@ -3,7 +3,7 @@ Projeto de Testes com Ruby, Capybara, Site Prism
 Para clonar:
 git clone https://github.com/bernadetealves/testa-livros.git
 
-Pastas do projeto:
+Pastas do projeto =
 tests:
 * features - Especificaçes dos testes
 * reports - Relatório com resultados dos testes
