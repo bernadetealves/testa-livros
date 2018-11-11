@@ -1,8 +1,12 @@
-Projeto de Testes - Ruby, capybara, Site Prism
+Projeto de Testes com Ruby, Capybara, Site Prism
 
 Para clonar:
-git clone 
+git clone https://github.com/bernadetealves/testa-livros.git
 
+Pastas do projeto:
+tests:
+* features - Especificaçes dos testes
+* reports - Relatório com resultados dos testes
 
 Para rodar os testes via terminal:
 1. Entrar na pasta tests: "cd tests" 
